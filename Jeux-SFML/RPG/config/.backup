@@ -1,0 +1,26 @@
+
+     *****BACKUP*****
+
+     *****PERSO*****
+
+perso_id : 
+perso_life : 
+perso_exp : 
+perso_level : 
+
+     *****INVENTORY*****
+
+inventory_objects : 
+inventory_spells : 
+inventory_skill_tree : 
+
+     *****MAP*****
+
+current_map : 
+current_pos : 
+
+     *****QUEST*****
+
+current_quest : 
+
+     *****END OF BACKUP*****
